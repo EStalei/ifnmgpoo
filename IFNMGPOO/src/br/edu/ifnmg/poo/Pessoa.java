@@ -1,7 +1,7 @@
 package br.edu.ifnmg.poo;
 
 /**
- *
+ * Teste
  * @author Eike
  */
 public class Pessoa {
